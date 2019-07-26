@@ -7,7 +7,7 @@ const logo = new Freezeframe('.freezeframe', {
   logo.start(); // start animation
   logo.stop(); // stop animation
 
-  var bigArray = [ "Gangsta", "Sips Tea", "Attitude", "Jeff Bezos Laugh", "Cardi B", "Beyonce", "Make it Rain" ]
+  var bigArray = [ "Gangsta", "Sips Tea", "Attitude", "Jeff Bezos", "Cardi B", "Beyonce", "Make it Rain" ]
 
 
   $.each(bigArray, function(index, animal){
